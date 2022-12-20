@@ -1,0 +1,44 @@
+.bg-lights {
+    background-color: #0062cc !important;
+    font-size: 30px;
+}
+
+}
+.navbar-light .navbar-brand {
+    color:white !important;
+    
+}
+
+
+.nav-link{
+    color: whitesmoke !important;
+ 
+}
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active {
+    color:white;
+}
+a{
+    font-size: 25px;
+}
+.container{
+    background-color: #0062cc !important;
+    font-family: poppins;
+}
+.contain{
+    align-items: center;
+}
+.navbar-light .navbar-brand {
+    color:whitesmoke !important;
+}
+.para{
+    float: left;
+}
+.one{
+    margin: 50px;
+    padding: 50px;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
